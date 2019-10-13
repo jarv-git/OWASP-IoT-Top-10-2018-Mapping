@@ -44,7 +44,7 @@
       <td
       style="text-align:left"><b>I4 Lack of Secure Update Mechanism</b>
         <br />
-        <br /><b>I8 Lack of Device Management</b>
+        <br /><b>I5 Use of Insecure or Outdated Components</b>
         </td>
     </tr>
     <tr>
@@ -82,7 +82,10 @@
         of both security and functionality.</td>
       <td style="text-align:left"><b>I2 Insecure Network Services</b>
         <br />
+        <br /><b>I3 Insecure Ecosystem Interfaces</b>
         <br /><b>I5 Use of Insecure or Outdated Components</b>
+        <br /><b>I9 Insecure Default Settings</b>
+        <br /><b>I10 Lack of Physical Hardening</b>
       </td>
     </tr>
     <tr>
@@ -92,7 +95,7 @@
         If an unauthorised change is detected, the device should alert the consumer/administrator
         to an issue and should not connect to wider networks than those necessary
         to perform the alerting function.</td>
-      <td style="text-align:left"><b>I9 Insecure Default Settings</b>
+      <td style="text-align:left"><b>I8 Lack of Device Management</b>
         <br />
         <br /><b>I10 Lack of Physical Hardening</b>
       </td>
@@ -124,9 +127,7 @@
         of a loss of power. Devices should be able to return to a network in a
         sensible state and in an orderly fashion, rather than in a massive scale
         reconnect.</td>
-      <td style="text-align:left"><b>I8 Lack of Device Management</b>
-        <br />
-        <br /><b>I9 Insecure Default Settings</b>
+      <td style="text-align:left"><b>N/A</b>
       </td>
     </tr>
     <tr>
@@ -135,7 +136,7 @@
       <td style="text-align:left">If telemetry data is collected from IoT devices and services, such as
         usage and measurement data, it should be monitored for security anomalies.</td>
       <td
-      style="text-align:left"><b>N/A</b>
+      style="text-align:left"><b>I8 Lack of Device Management</b>
         </td>
     </tr>
     <tr>
@@ -156,9 +157,7 @@
         and should follow security best practice on usability. Consumers should
         also be provided with guidance on how to securely set up their device.</td>
       <td
-      style="text-align:left"><b>I8 Lack of Device Management</b>
-        <br />
-        <br /><b>I9 Insecure Default Settings</b>
+      style="text-align:left"><b>I9 Insecure Default Settings</b>
         </td>
     </tr>
     <tr>
